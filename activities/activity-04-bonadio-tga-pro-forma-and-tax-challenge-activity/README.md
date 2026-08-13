@@ -1,4 +1,4 @@
-# Activity 4: Bonadio–TGA Pro Forma and Tax Challenge Lab
+# Activity 4: Bonadio–TGA Pro Forma and Tax Challenge Activity
 
 **TSC mapping:** K5 · A1 · A2  
 **Objective:** Evaluate financial and tax implications and act as checks and balances (K5, A1, A2)  

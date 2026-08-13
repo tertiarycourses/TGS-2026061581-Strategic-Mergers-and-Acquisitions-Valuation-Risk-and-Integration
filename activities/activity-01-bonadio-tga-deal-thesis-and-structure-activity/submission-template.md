@@ -1,6 +1,6 @@
 # Submission Template — Activity 1
 
-## Bonadio–TGA Deal Thesis and Structure Lab
+## Bonadio–TGA Deal Thesis and Structure Activity
 
 ### 1. Reported facts
 

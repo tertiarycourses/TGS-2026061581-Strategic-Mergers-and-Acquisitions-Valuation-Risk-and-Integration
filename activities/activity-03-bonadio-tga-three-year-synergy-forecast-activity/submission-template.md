@@ -1,6 +1,6 @@
 # Submission Template — Activity 3
 
-## Bonadio–TGA Three-Year Synergy Forecast Lab
+## Bonadio–TGA Three-Year Synergy Forecast Activity
 
 ### 1. Reported facts
 

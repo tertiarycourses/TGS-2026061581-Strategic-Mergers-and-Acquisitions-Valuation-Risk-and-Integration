@@ -1,4 +1,4 @@
-# Activity 3: Bonadio–TGA Three-Year Synergy Forecast Lab
+# Activity 3: Bonadio–TGA Three-Year Synergy Forecast Activity
 
 **TSC mapping:** K2 · A1 · A2 · A5  
 **Objective:** Forecast business impact and assess effects on financial performance (K2, A1, A2, A5)  

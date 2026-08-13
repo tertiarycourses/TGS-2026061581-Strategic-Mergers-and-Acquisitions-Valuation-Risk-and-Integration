@@ -5,7 +5,7 @@ EY = "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/merge
 FW = "https://www.financierworldwide.com/briefing-room-ma-in-the-professional-services-sector"
 
 DOMAIN4 = [
- dict(num=7, topic=4, title="Bonadio–TGA Integration Program Design Lab",
+ dict(num=7, topic=4, title="Bonadio–TGA Integration Program Design Activity",
       objective="Develop an implementation plan with stakeholders and governance (A2, A3, A4)",
       desc="Use EY's nine-step integration framework to turn the Bonadio–TGA deal thesis and diligence findings into a Day One and first-100-days program.",
       build="Integration strategy, governance/RACI, workstream charters, Day One checklist and 100-day roadmap",
@@ -37,7 +37,7 @@ DOMAIN4 = [
       ],
       output="Integration Program Blueprint and 100-Day Roadmap",
       test="The blueprint maps all nine EY steps, separates pre-close planning from post-close control, assigns governance and owners, and links integration actions to value and risk."),
- dict(num=8, topic=4, title="Bonadio–TGA Culture, Talent and Client Continuity Lab",
+ dict(num=8, topic=4, title="Bonadio–TGA Culture, Talent and Client Continuity Activity",
       objective="Align stakeholders and manage culture/change in professional-services integration (K2, A2, A3)",
       desc="Use the professional-services M&A briefing to design a people-and-client integration plan that preserves specialist identity while enabling scaled capabilities.",
       build="Culture risk map, critical-talent plan, client continuity playbook and stakeholder communication pack",

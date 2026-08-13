@@ -1,4 +1,4 @@
-# Activity 6: Bonadio–TGA M&A Risk Intelligence Lab
+# Activity 6: Bonadio–TGA M&A Risk Intelligence Activity
 
 **TSC mapping:** A2 · A4 · A5 · A6  
 **Objective:** Use BI to assess and manage M&A risk across the lifecycle (A2, A4, A5, A6)  

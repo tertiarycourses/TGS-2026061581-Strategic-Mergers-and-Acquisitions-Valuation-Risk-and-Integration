@@ -1,6 +1,6 @@
 # Submission Template — Activity 6
 
-## Bonadio–TGA M&A Risk Intelligence Lab
+## Bonadio–TGA M&A Risk Intelligence Activity
 
 ### 1. Reported facts
 

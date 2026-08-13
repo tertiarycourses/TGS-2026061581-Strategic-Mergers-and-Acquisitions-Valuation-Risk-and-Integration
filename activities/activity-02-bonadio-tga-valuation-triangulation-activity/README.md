@@ -1,4 +1,4 @@
-# Activity 2: Bonadio–TGA Valuation Triangulation Lab
+# Activity 2: Bonadio–TGA Valuation Triangulation Activity
 
 **TSC mapping:** K3 · A1  
 **Objective:** Apply business valuation concepts and reconcile a valuation range (K3, A1)  

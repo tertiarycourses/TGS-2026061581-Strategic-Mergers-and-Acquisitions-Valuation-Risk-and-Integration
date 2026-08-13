@@ -1,4 +1,4 @@
-# Activity 5: Bonadio–TGA Target Screening and Diligence Lab
+# Activity 5: Bonadio–TGA Target Screening and Diligence Activity
 
 **TSC mapping:** K4 · A4 · A6  
 **Objective:** Use industry intelligence to screen a target and plan risk-based diligence (K4, A4, A6)  

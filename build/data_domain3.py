@@ -5,7 +5,7 @@ MDPI = "https://www.mdpi.com/2227-9091/12/9/143"
 SSRN = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106493"
 
 DOMAIN3 = [
- dict(num=5, topic=3, title="Bonadio–TGA Target Screening and Diligence Lab",
+ dict(num=5, topic=3, title="Bonadio–TGA Target Screening and Diligence Activity",
       objective="Use industry intelligence to screen a target and plan risk-based diligence (K4, A4, A6)",
       desc="Convert the public transaction rationale into a target-screening scorecard and a diligence plan that tests specialist capability, client trust and regulatory quality.",
       build="A target-screening scorecard, evidence request list and diligence workplan",
@@ -37,7 +37,7 @@ DOMAIN3 = [
       ],
       output="Target Screening and Diligence Workplan",
       test="Weights total 100%, scores cite evidence status, every high-risk item has an owner and decision impact, and diligence findings flow into integration actions."),
- dict(num=6, topic=3, title="Bonadio–TGA M&A Risk Intelligence Lab",
+ dict(num=6, topic=3, title="Bonadio–TGA M&A Risk Intelligence Activity",
       objective="Use BI to assess and manage M&A risk across the lifecycle (A2, A4, A5, A6)",
       desc="Apply the MDPI risk themes and the SSRN enterprise-risk framework to the real announced deal, then create a decision dashboard and escalation memo.",
       build="A risk taxonomy, heat map, bow-tie controls, BI dashboard and go/conditional/no-go memo",

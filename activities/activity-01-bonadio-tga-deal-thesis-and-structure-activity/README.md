@@ -1,4 +1,4 @@
-# Activity 1: Bonadio–TGA Deal Thesis and Structure Lab
+# Activity 1: Bonadio–TGA Deal Thesis and Structure Activity
 
 **TSC mapping:** K1 · A1 · A6  
 **Objective:** Apply financial instruments to shape a deal structure (K1, A1, A6)  

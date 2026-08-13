@@ -1,4 +1,4 @@
-# Activity 7: Bonadio–TGA Integration Program Design Lab
+# Activity 7: Bonadio–TGA Integration Program Design Activity
 
 **TSC mapping:** A2 · A3 · A4  
 **Objective:** Develop an implementation plan with stakeholders and governance (A2, A3, A4)  

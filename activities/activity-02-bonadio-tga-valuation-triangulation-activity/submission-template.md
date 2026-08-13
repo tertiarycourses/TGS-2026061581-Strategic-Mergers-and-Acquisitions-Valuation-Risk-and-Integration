@@ -1,6 +1,6 @@
 # Submission Template — Activity 2
 
-## Bonadio–TGA Valuation Triangulation Lab
+## Bonadio–TGA Valuation Triangulation Activity
 
 ### 1. Reported facts
 

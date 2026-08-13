@@ -1,6 +1,6 @@
 # Submission Template — Activity 8
 
-## Bonadio–TGA Culture, Talent and Client Continuity Lab
+## Bonadio–TGA Culture, Talent and Client Continuity Activity
 
 ### 1. Reported facts
 

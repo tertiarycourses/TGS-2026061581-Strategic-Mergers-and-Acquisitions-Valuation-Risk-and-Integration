@@ -2,7 +2,7 @@
 from data_domain1 import CASE_FACTS, SOURCE
 
 DOMAIN2 = [
- dict(num=3, topic=2, title="Bonadio–TGA Three-Year Synergy Forecast Lab",
+ dict(num=3, topic=2, title="Bonadio–TGA Three-Year Synergy Forecast Activity",
       objective="Forecast business impact and assess effects on financial performance (K2, A1, A2, A5)",
       desc="Translate the public strategic rationale into a three-year base/downside/upside forecast with a traceable synergy bridge.",
       build="A standalone-to-combined forecast, synergy register, cost-to-achieve schedule and executive dashboard",
@@ -34,7 +34,7 @@ DOMAIN2 = [
       ],
       output="Three-Year Synergy Model, Synergy Register and Management Dashboard",
       test="Standalone and synergy cases are separate; every synergy has an owner and timing; cash impact includes cost-to-achieve and tax; downside results are visible."),
- dict(num=4, topic=2, title="Bonadio–TGA Pro Forma and Tax Challenge Lab",
+ dict(num=4, topic=2, title="Bonadio–TGA Pro Forma and Tax Challenge Activity",
       objective="Evaluate financial and tax implications and act as checks and balances (K5, A1, A2)",
       desc="Trace an illustrative acquisition through the income statement, balance sheet and cash flow, then challenge tax and control assumptions.",
       build="A pro forma bridge, purchase-price allocation sketch, tax issue list and board challenge paper",

@@ -9,7 +9,7 @@ CASE_FACTS = (
 SOURCE = "https://www.cpapracticeadvisor.com/2026/08/06/credit-risk-management-firm-joins-the-bonadio-group/188098/"
 
 DOMAIN1 = [
- dict(num=1, topic=1, title="Bonadio–TGA Deal Thesis and Structure Lab",
+ dict(num=1, topic=1, title="Bonadio–TGA Deal Thesis and Structure Activity",
       objective="Apply financial instruments to shape a deal structure (K1, A1, A6)",
       desc="Use the announced Bonadio–TGA professional-services transaction to build a defensible strategic thesis and term-sheet architecture.",
       build="A one-page deal thesis, strategic-fit scorecard and proposed consideration/risk-allocation package",
@@ -39,7 +39,7 @@ DOMAIN1 = [
       ],
       output="Deal Thesis and Structure Decision Page (PDF or DOCX)",
       test="The page distinguishes facts from assumptions, proposes at least two instruments, links each term to a risk or value driver, and includes an explicit go/conditional/no-go recommendation."),
- dict(num=2, topic=1, title="Bonadio–TGA Valuation Triangulation Lab",
+ dict(num=2, topic=1, title="Bonadio–TGA Valuation Triangulation Activity",
       objective="Apply business valuation concepts and reconcile a valuation range (K3, A1)",
       desc="Build a screening valuation for the real announced transaction using clearly labelled training assumptions because the deal's financial terms were not disclosed.",
       build="A transparent valuation workbook with DCF, trading-comparable and precedent-transaction cross-checks",

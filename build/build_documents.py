@@ -19,7 +19,7 @@ import prodoc
 
 ACT=DOMAIN1+DOMAIN2+DOMAIN3+DOMAIN4
 REPO=HERE.parent
-CW=REPO/"courseware"; LABS=REPO/"labs"; ASSETS=CW/"assets"
+CW=REPO/"courseware"; ACTIVITIES=REPO/"activities"; ASSETS=CW/"assets"
 BRAND=RGBColor(0x1F,0x6F,0xEB); TEAL=RGBColor(0x10,0xB9,0x81)
 DARK=RGBColor(0x11,0x18,0x27); GREY=RGBColor(0x55,0x5B,0x66)
 
@@ -27,11 +27,11 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+","-",s.lower()).strip("-")
 
 def write_activity_files():
-    LABS.mkdir(parents=True,exist_ok=True)
+    ACTIVITIES.mkdir(parents=True,exist_ok=True)
     index=[f"# Activities — {C.TITLE}","",f"Course: {C.COURSE_CODE}","",
            "The eight activities form one progressive real-world case around the announced Bonadio–TGA transaction. Reported facts are separated from course-only assumptions.",""]
     for a in ACT:
-        folder=LABS/f"activity-{a['num']:02d}-{slug(a['title'])}"
+        folder=ACTIVITIES/f"activity-{a['num']:02d}-{slug(a['title'])}"
         folder.mkdir(parents=True,exist_ok=True)
         lines=[f"# Activity {a['num']}: {a['title']}","",f"**TSC mapping:** {a['criteria']}  ",f"**Objective:** {a['objective']}  ",f"**Expected output:** {a['output']}  ",f"**Primary source:** {a['source']}","",
                "## Goal","",a['desc'],"","## Real-world scenario","",a['fact_basis'],"",a['scenario'],"",
@@ -58,7 +58,7 @@ def write_activity_files():
                      "### 7. Evidence and sources","","- ","","### 8. Acceptance check","",f"- [ ] {a['test']}",""]
         (folder/"submission-template.md").write_text("\n".join(template),encoding="utf-8")
         index.append(f"- [Activity {a['num']}: {a['title']}](activity-{a['num']:02d}-{slug(a['title'])}/README.md) — {a['criteria']}")
-    (LABS/"README.md").write_text("\n".join(index)+"\n",encoding="utf-8")
+    (ACTIVITIES/"README.md").write_text("\n".join(index)+"\n",encoding="utf-8")
 
 def base_doc(kind):
     d=Document(); sec=d.sections[0]

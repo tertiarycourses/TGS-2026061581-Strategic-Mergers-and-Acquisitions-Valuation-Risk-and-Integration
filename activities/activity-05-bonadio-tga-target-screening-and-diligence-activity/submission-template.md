@@ -1,6 +1,6 @@
 # Submission Template — Activity 5
 
-## Bonadio–TGA Target Screening and Diligence Lab
+## Bonadio–TGA Target Screening and Diligence Activity
 
 ### 1. Reported facts
 

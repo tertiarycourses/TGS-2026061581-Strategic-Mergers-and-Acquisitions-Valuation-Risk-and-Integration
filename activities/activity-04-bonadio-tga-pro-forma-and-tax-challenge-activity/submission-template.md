@@ -1,6 +1,6 @@
 # Submission Template — Activity 4
 
-## Bonadio–TGA Pro Forma and Tax Challenge Lab
+## Bonadio–TGA Pro Forma and Tax Challenge Activity
 
 ### 1. Reported facts
 

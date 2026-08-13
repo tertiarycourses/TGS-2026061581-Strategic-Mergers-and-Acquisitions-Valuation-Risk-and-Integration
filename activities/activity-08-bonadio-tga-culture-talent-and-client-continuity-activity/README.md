@@ -1,4 +1,4 @@
-# Activity 8: Bonadio–TGA Culture, Talent and Client Continuity Lab
+# Activity 8: Bonadio–TGA Culture, Talent and Client Continuity Activity
 
 **TSC mapping:** K2 · A2 · A3  
 **Objective:** Align stakeholders and manage culture/change in professional-services integration (K2, A2, A3)  

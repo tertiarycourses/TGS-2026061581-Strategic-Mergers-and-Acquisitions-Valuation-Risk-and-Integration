@@ -2,6 +2,10 @@
 
 WSQ courseware for **TGS-2026061581** and TSC **WST-CFI-5003-1.1-1 — Mergers and Acquisition**.
 
+## Courseware preview
+
+![Strategic Mergers and Acquisitions courseware title slide](screenshot.png)
+
 ## Public courseware
 
 - 149-slide visual deck in PPTX and PDF
@@ -42,4 +46,3 @@ The assessment generator preserves the approved four-question WA and three-task 
 - [M&A in the professional services sector](https://www.financierworldwide.com/briefing-room-ma-in-the-professional-services-sector)
 - [EY: Nine key steps to setting up an M&A integration program](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/mergers-acquisitions/documents/ey-nine-key-steps-to-setting-up-merger-acquisition-integration-program.pdf)
 - [Risk Management in Enterprise M&A](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106493)
-

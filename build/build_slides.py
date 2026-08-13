@@ -5,7 +5,7 @@ Design helpers are the same set used by the tertiary-course-slides skill that
 produced the n8n reference deck (cover, section, content, two_col, cards3,
 big_statement, step_slide, test_slide, brk). Content is driven entirely by
 course_data.py + data_domainN.py so the deck stays 100% aligned with the LP,
-LG and labs.
+LG and activities.
 """
 import os, sys, json
 from PIL import Image
@@ -353,7 +353,7 @@ cards3("Assessment and Funding",[
  (VIOLET,"Competency",["Satisfactory evidence","At least 75% attendance","Appeal process available"])],kicker="FINAL ASSESSMENT")
 flow_h("Assessment Flow",["TRAQOM / SSG attendance","Assessment digital attendance","Sit WA then Case Study","Submit answers on the LMS","Sign the Assessment Summary Record"],kicker="ON ASSESSMENT DAY",color=VIOLET)
 link_slide("Access the Course Activities",C.GITHUB_URL,[
- ("Clone","git clone the repository, then open the labs folder."),
+ ("Clone","git clone the repository, then open the activities folder."),
  ("Download ZIP","Use GitHub Code → Download ZIP when Git is unavailable."),
  ("One folder each","Every activity includes scenario, questions, steps and acceptance criteria.")],kicker="HANDS-ON MATERIALS")
 link_slide("Download Course Material",C.LMS_URL,[
@@ -425,4 +425,3 @@ with open(os.path.join(REPO,"courseware","slide_map.json"),"w",encoding="utf-8")
     json.dump(SLIDE_MAP,f,indent=2)
 print(f"Saved {OUT} ({len(prs.slides)} slides)")
 sys.exit(0)
-

@@ -1,6 +1,6 @@
 # Submission Template — Activity 7
 
-## Bonadio–TGA Integration Program Design Lab
+## Bonadio–TGA Integration Program Design Activity
 
 ### 1. Reported facts
 
